@@ -200,6 +200,7 @@ The main_testing.ipynb notebook includes the following key components:
 If you have any questions or need assistance, please contact:
 
 - _Team ID_: GSTN_30
-  Thank you for considering our submission. We look forward to your feedback.
+
+Thank you for considering our submission. We look forward to your feedback.
 
 ---
